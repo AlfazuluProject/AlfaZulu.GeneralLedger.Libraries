@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AlfaZulu.GeneralLedger.Accounts\AlfaZulu.GeneralLedger.Accounts.csproj" />
+    <ProjectReference Include="..\AlfaZulu.GeneralLedger.Entries\AlfaZulu.GeneralLedger.Entries.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

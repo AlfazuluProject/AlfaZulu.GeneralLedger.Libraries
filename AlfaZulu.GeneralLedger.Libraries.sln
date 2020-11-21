@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlfaZulu.GeneralLedger.Accounts", "AlfaZulu.GeneralLedger.Accounts\AlfaZulu.GeneralLedger.Accounts.csproj", "{82370E26-7235-4724-9D6E-540DBBE71F83}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlfaZulu.GeneralLedger.Entries", "AlfaZulu.GeneralLedger.Entries\AlfaZulu.GeneralLedger.Entries.csproj", "{705F5C1E-99B4-4656-90D0-3670097A6B08}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlfaZulu.GeneralLedger.Tests", "AlfaZulu.GeneralLedger.Tests\AlfaZulu.GeneralLedger.Tests.csproj", "{1A52FDC9-A38E-49BD-94E6-B28E5FE51B6D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlfaZulu.GeneralLedger.ChartOfAccounts", "AlfaZulu.GeneralLedger.ChartOfAccounts\AlfaZulu.GeneralLedger.ChartOfAccounts.csproj", "{F68F9EDC-AC57-41DF-B904-6677CB2091C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlfaZulu.GeneralLedger.Common", "AlfaZulu.GeneralLedger.Common\AlfaZulu.GeneralLedger.Common.csproj", "{B9274B48-DADE-4DDF-A830-DA3E033EE015}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlfaZulu.GeneralLedger", "AlfaZulu.GeneralLedger\AlfaZulu.GeneralLedger.csproj", "{2DFBEB8E-48B6-4F6C-B862-0F420D1EBC82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82370E26-7235-4724-9D6E-540DBBE71F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82370E26-7235-4724-9D6E-540DBBE71F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82370E26-7235-4724-9D6E-540DBBE71F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82370E26-7235-4724-9D6E-540DBBE71F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705F5C1E-99B4-4656-90D0-3670097A6B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705F5C1E-99B4-4656-90D0-3670097A6B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705F5C1E-99B4-4656-90D0-3670097A6B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705F5C1E-99B4-4656-90D0-3670097A6B08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A52FDC9-A38E-49BD-94E6-B28E5FE51B6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A52FDC9-A38E-49BD-94E6-B28E5FE51B6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A52FDC9-A38E-49BD-94E6-B28E5FE51B6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A52FDC9-A38E-49BD-94E6-B28E5FE51B6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68F9EDC-AC57-41DF-B904-6677CB2091C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68F9EDC-AC57-41DF-B904-6677CB2091C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68F9EDC-AC57-41DF-B904-6677CB2091C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68F9EDC-AC57-41DF-B904-6677CB2091C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9274B48-DADE-4DDF-A830-DA3E033EE015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9274B48-DADE-4DDF-A830-DA3E033EE015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9274B48-DADE-4DDF-A830-DA3E033EE015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9274B48-DADE-4DDF-A830-DA3E033EE015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DFBEB8E-48B6-4F6C-B862-0F420D1EBC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFBEB8E-48B6-4F6C-B862-0F420D1EBC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFBEB8E-48B6-4F6C-B862-0F420D1EBC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFBEB8E-48B6-4F6C-B862-0F420D1EBC82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {552CA1A8-7FED-4CD3-9BD6-2CF5DD5E610F}
+	EndGlobalSection
+EndGlobal
