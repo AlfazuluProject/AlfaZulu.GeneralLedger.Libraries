@@ -1,14 +1,15 @@
 # AlfaZulu.GeneralLedger.Libraries
 
 
-*About*
+**About**
 ===
 AlfaZulu.GeneralLedger.Libraries is collection of .Net Libraries drafting the basic functionalities required to the development of a general accounting system.
 
 
-*Namespaces*
+**Namespaces**
 ===
 | Namespace | Description |
+|--|--|
 | AlfaZulu.GeneralLedger| |
 | AlfaZulu.GeneralLedger.Accounts| |
 | AlfaZulu.GeneralLedger.ChartOfAccounts | Contains all the classes necessary to define an chart of accounts |
