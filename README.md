@@ -17,4 +17,4 @@ AlfaZulu.GeneralLedger.Libraries is collection of .Net Libraries drafting the ba
 | AlfaZulu.GeneralLedger.Entries |  Contains all the classes necessary to General Ledger Entrees |
 
 
-AlfaZulu.GeneralLedger.Tests contains a collection of automated unit tests defines to make futher developpement doesn't break the libraries.
+AlfaZulu.GeneralLedger.Tests contains a collection of automated unit tests defined to make sure futher developpments don't break the libraries.
